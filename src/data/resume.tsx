@@ -363,7 +363,7 @@ export const DATA = {
     {
       title: "First Place in CSE DataHack-2",
       dates: "February 20th - 22nd, 2025",
-      location: "Estin School",
+      location: "ESI Algiers School",
       description: "",
       image: "",
       mlh: "",
@@ -372,7 +372,7 @@ export const DATA = {
     {
       title: "TRAINIT Datathon",
       dates: "Mars 8th - 10th, 2024",
-      location: "ESI Algiers",
+      location: "Estin School",
       description: "",
       image: "",
       mlh: "",
