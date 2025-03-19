@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I am a UI/UX designer, freelancer, machine learning junior developer, and data science enthusiast, currently pursuing a degree in Computer Sciences Engineering at ESTIN.",
   summary:
-    "I am a final-year student at the École Supérieure en Informatique (ESTIN) in Béjaïa, \
+    "I am a final-year student at the School of Information and Communication Technologies (ESTIN) in Bejaia, \
     specializing in Artificial Intelligence and Computer Vision.\
     I have actively participated in several Kaggle competitions and successfully \
     developed predictive models using various machine learning algorithms. \
@@ -285,7 +285,7 @@ export const DATA = {
     {
       title: "covid-19-prediction-model",
       href: "https://github.com/benlalaraid/covid-19-prediction-model",
-      dates: "N/A",
+      dates: "march, 2024",
       active: true,
       description:
         "Application of Random Forest, Decision Tree, XGBoost, Logistic Regression, KNN, and SVM models on preprocessed data, optimizing each algorithm to maximize the recall of COVID-19 prediction.",
