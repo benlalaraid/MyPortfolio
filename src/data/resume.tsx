@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I am a UI/UX designer, freelancer, machine learning junior developer, and data science enthusiast, currently pursuing a degree in Computer Sciences Engineering at ESTIN.",
   summary:
-    "I am a final-year student at the School of Information and Communication Technologies (ESTIN) in Bejaia, \
+    "I am a final-year student at the Higher School of Computer Science and Digital Technologies (ESTIN) in Bejaia, \
     specializing in Artificial Intelligence and Computer Vision.\
     I have actively participated in several Kaggle competitions and successfully \
     developed predictive models using various machine learning algorithms. \
